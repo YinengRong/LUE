@@ -1,1 +1,4 @@
-![Figure 1]([https://github.com/YinengRong/LUE/figure1.jpg?raw=true)
+
+<p align="center">
+<img src="./figure1.jpg" height = "640" alt="" align=center />
+<br><br>
